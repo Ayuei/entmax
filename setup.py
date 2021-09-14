@@ -1,5 +1,5 @@
 from distutils.core import setup
-from entmax import __version__
+__version__ = "1.1.dev0"
 
 setup(name='entmax',
       version=__version__,
